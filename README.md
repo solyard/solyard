@@ -8,5 +8,6 @@
 ![](https://img.shields.io/badge/CI/CD-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-GoLang-informational?style=flat&logo=go&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
