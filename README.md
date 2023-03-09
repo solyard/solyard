@@ -11,8 +11,3 @@
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-GoLang-informational?style=flat&logo=go&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-
----
-### Some stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solyard&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solyard&layout=compact)
